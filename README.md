@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN full stack course etc**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vineet-singh21/](https://www.linkedin.com/in/vineet-singh21/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vineet-singh21/](https://www.linkedin.com/in/vineet-singh12/)
 
 - 📫 How to reach me **singhvineet00111@gmail.com**
 
