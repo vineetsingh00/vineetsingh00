@@ -76,25 +76,26 @@
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/vineet-singh12/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <a href="https://www.linkedin.com/in/vineet-singh12/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/er_vineet/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" />
+  <a href="https://www.instagram.com/er_vineet/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-Follow_me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow me on Instagram" />
   </a>
   &nbsp;
   <a href="mailto:singhvineet00111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
+    <img src="https://img.shields.io/badge/Email-Let's_talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via email" />
   </a>
 </p>
 
 <p align="center">
-  💡 <b>Code • Learn • Build • Repeat</b>
+  <i>Let's connect, share ideas, and build something amazing together.</i>
 </p>
+
 
 <p align="center">
   Thanks for visiting my profile! 😊
