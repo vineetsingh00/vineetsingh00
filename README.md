@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <table>
   <tr>
@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 ### 💻 Frontend Development
 
@@ -79,7 +79,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vineet-singh21/" target="_blank">
+  <a href="www.linkedin.com/in/vineet-singh12/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   &nbsp;
