@@ -7,9 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vineetsingh00&label=Profile%20Views&color=21528F&style=flat" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=vineetsingh00&label=PROFILE+VIEWS&color=21528F&style=for-the-badge"
+    alt="GitHub Profile Views"
+  />
 </p>
-
 ---
 
 ## About Me
