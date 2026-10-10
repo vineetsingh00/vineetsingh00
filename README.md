@@ -8,11 +8,10 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=vineetsingh00&label=PROFILE+VIEWS&color=21528F&style=for-the-badge"
-    alt="GitHub Profile Views"
+    src="https://views-counter.vercel.app/badge?pageId=vineetsingh00%2Fvineetsingh00&leftColor=0f172a&rightColor=21528F&label=PROFILE%20VIEWS"
+    alt="GitHub Profile Views Counter"
   />
 </p>
----
 
 ## About Me
 
