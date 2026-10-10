@@ -6,10 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=21528F&center=true&vCenter=true&width=600&lines=Software+Developer;Next.js+%7C+React+%7C+TypeScript;Node.js+%7C+PostgreSQL+%7C+MongoDB" alt="Typing animation" />
 </p>
 
-<p align="center">
+ <p align="center">
   <img
-    src="https://views-counter.vercel.app/badge?pageId=vineetsingh00%2Fvineetsingh00&leftColor=0f172a&rightColor=21528F&label=PROFILE%20VIEWS"
-    alt="GitHub Profile Views Counter"
+    src="https://viewcounter.live/vineetsingh00?label=PROFILE%20VISITORS&bg_color=21528F&text_color=FFFFFF&rounded=true&unique=true"
+    alt="GitHub profile visitors"
   />
 </p>
 
